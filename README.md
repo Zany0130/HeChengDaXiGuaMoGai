@@ -26,7 +26,6 @@ https://daxigua-1-0-0-gamma-liart.vercel.app/
 
 1.安装vercel工具
 
-
     ```bash
     npm install -g vercel
     ```
